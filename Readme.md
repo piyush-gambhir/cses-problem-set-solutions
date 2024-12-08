@@ -21,21 +21,21 @@ The CSES Problem Set is a collection of competitive programming practice problem
 
 Perfect for those who are new to competitive programming. It covers basic problems to help you get familiar with problem-solving patterns.
 
-[View Problems](#) *(replace with appropriate link)*
+[View Problems](https://cses.fi/problemset/list/)
 
 ## Sorting and Searching
 
 Delve deep into sorting algorithms and searching techniques. A must for anyone looking to master fundamental algorithms.
 
-[View Problems](#)
+[View Problems](#sorting-and-searching)
 
 ## Dynamic Programming
 
 Discover the power of optimizing recursive problems using dynamic programming. An essential topic for any competitive programmer.
 
 ### Dice Combinations
-- **Problem:** [Link to Problem](#)
-- **Solution:** [Link to Solution](#)
+- **Problem:** [Link to Problem](https://cses.fi/problemset/task/1633)
+- **Solution:** [Link to Solution](https://cses.fi/problemset/result/1633/)
 
 ### Minimizing Coins
 - **Problem:** [Link to Problem](#)
